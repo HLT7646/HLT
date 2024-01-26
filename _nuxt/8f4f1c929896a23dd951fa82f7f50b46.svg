@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="10" viewBox="0 0 12 10">
+  <defs>
+    <polygon id="icon_check-a" points="10.088 .35 10.712 .85 4.841 8.19 .725 4.29 1.275 3.71 4.759 7.01"/>
+  </defs>
+  <use stroke="#000" stroke-width=".25" transform="translate(0 .5)" xlink:href="#icon_check-a"/>
+</svg>
